@@ -1,4 +1,4 @@
-package crud12
+package services
 
 import "github.com/kryast/crud-12.git/repositories"
 
